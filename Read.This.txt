@@ -1,0 +1,1 @@
+No files here, yet.  This is currently a test directory to learn the ins and outs of smartgit.
